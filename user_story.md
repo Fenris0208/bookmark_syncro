@@ -6,12 +6,13 @@
 1. Es werden Dopplungen verworfen
 1. Es wird die Struktur beibehalten ( Ordner etc)
 1. Es gibt eine Master-Datei, welche die Struktur vorgibt
+1. Man kann ein Bookmarkverzeichnis anlegen
 
 
 ## Klassen:
 * bookmark
 * inputFile
 * database
-* 
+* user_bookmark
 * settings 
 
