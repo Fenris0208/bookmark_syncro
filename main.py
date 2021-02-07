@@ -4,7 +4,7 @@ import sys
 import json
 
 def main(argv):
-    print("start with args:",argv) 
+    print("parameter are :",argv) 
 
 
 '''
@@ -15,7 +15,7 @@ def load_bookmark():
 def  
 '''
 
-if __name__=="__man__":
+if __name__=="__main__":
     main(sys.argv[1:])
 
 
