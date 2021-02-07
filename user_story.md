@@ -9,5 +9,6 @@
 
 
 ## Klassen:
-/. bookmark
-/. settings 
+* bookmark
+* settings 
+
