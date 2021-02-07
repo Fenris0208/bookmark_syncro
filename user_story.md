@@ -11,8 +11,20 @@
 
 ## Klassen:
 * bookmark
+    * URL
+    * hash
+    * ordner
+    * add_date
 * inputFile
+    * 
 * database
-* user_bookmark
-* settings 
+
+* bookmarkfile
+    * make_date
+    * bookmark
+    * odner
+    
+* settings
+    *
+
 
