@@ -10,5 +10,8 @@
 
 ## Klassen:
 * bookmark
+* inputFile
+* database
+* 
 * settings 
 
