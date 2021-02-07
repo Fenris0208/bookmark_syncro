@@ -7,3 +7,8 @@
 1. Es wird die Struktur beibehalten ( Ordner etc)
 1. Es gibt eine Master-Datei, welche die Struktur vorgibt
 
+
+## Klassen:
+/* bookmark
+/* settings
+/* 
