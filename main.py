@@ -15,7 +15,8 @@ def main(argv):
     b1.get_contet()
    
 
-
+def settings():
+    print("settings under constructions")
 '''
 def load_file(): 
 
