@@ -27,8 +27,11 @@ def main(argv):
     b1 = bookmark_class.bookmark("studium","www.blabla.de","16032021","studiumsscheiß")
     b1.get_contet()
     print(b1.generate_string())
-   
+    input1 = inputfile_class.inputFile('testbookmark.html')
+    print(input1.ToString())
 
+
+   
 def settings():
     print("settings under constructions")
 '''
